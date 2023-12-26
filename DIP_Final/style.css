@@ -1,0 +1,17 @@
+/* 按钮样式 */
+#toggleButton {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#toggleButton:hover {
+    background-color: #45a049;
+}
